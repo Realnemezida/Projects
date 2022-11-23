@@ -10,3 +10,6 @@
      - Как предпочитают оплачивать?
  3. Подобраны модели ML для предсказания ухода клиента методами GridSearch, RandomSearch
  4. Наилучшая модель имеет ROC-AUC 0,94 на тестовой выборке
+
+## Инструменты: 
+Python, Pandas, Matplotlib, ScikitLearn, Catboost
