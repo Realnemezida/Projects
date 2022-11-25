@@ -12,5 +12,6 @@
 | Защита персональных данных клиентов | Разработать метод преобразования данных для защиты персональной информации | Pandas, Numpy, Scikitlearn, Matplotlib |  [Ссылка](https://github.com/Realnemezida/Projects/tree/main/Protection%20of%20clients%20private%20data "Ссылка на папку") |
 | Исследование очистки золота из руды | Анализ эффективности очистки, изменения концентрации металлов на различных этапах очистки. Разработка модели ML для предсказания эффективности очистки руды до начала очистки| Python, Pandas, Matplotlib, ScikitLearn |   [Ссылка](https://github.com/Realnemezida/Projects/tree/main/Study_of_gold_technological_purification "Ссылка на папку")  | 
 | Прогноз оттока клиентов банка | Спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.  | Pandas, Numpy, Scikitlearn, Matplotlib, CatBoost |  [Ссылка](https://github.com/Realnemezida/Projects/tree/main/Prediction_%20of_bank_clients_exodus "Ссылка на папку")  |
+| Исследование наиболее выгодного района нефтедобычи | Обучить модель ML регрессии для предсказания прибыли в регионе. Найти наиболее выгодный район для разработки. | Pandas, Numpy, Scikitlearn | [Ссылка](https://github.com/Realnemezida/Projects/tree/main/Location_choosing_for_an_oil_well "Ссылка на папку")  |
  
  
